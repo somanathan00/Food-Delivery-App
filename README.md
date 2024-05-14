@@ -20,7 +20,7 @@ You can view a live demo of the app [here](https://fooddeliveryapp00.netlify.app
   - CSS
   - Axios for HTTP requests
 
-- Backend (not included in this repository):
+- Backend :
   - Node.js
   - Express.js
   - MongoDB
